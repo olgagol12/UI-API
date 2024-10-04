@@ -2,7 +2,7 @@
 ## Дипломная работа 
 
 ### Шаги по подключению
-1. Склонировать проект 'git clone https://github.com/VadimDzemidzenka/Thesis.git' 
+1. Склонировать проект 'git clone 'https://github.com/olgagol12/UI-API.git' 
 2. Установить все зависимости 'pip install -r requirements.txt'
 3. Запустить тесты 'pytest'
 
